@@ -1,3 +1,4 @@
+# when running this template, you can use the email: Umesh@bsidesblr.p1k4chu.com and password: HellYeah!
 -
     name: 'Setup Phishing Server'
     hosts: phishing_server
